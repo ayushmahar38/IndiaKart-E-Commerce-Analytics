@@ -3,7 +3,7 @@
 End-to-end data analytics project for e-commerce performance evaluation, featuring Python exploratory data analysis and an interactive Tableau Public dashboard.
 
 ## Deliverables
-- **Tableau Dashboard**: [Insert your Tableau Public Link Here]
+- **Tableau Dashboard**: https://public.tableau.com/app/profile/ayush.mahar6525/viz/IndiaKartE-CommerceAnalytics/Dashboard1?publish=yes
 - **Jupyter Analysis Report**: Phase1_DataCleaning_AyushMahar_v2.html
 
 ## Project Highlights
